@@ -20,7 +20,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-express": "2.9.6",
+    "apollo-server-express": "2.14.2",
     "better-sqlite3": "6.0.1",
     "express": "4.17.1",
     "lodash.merge": "4.6.2",
