@@ -22,7 +22,7 @@
   "dependencies": {
     "apollo-server-express": "2.14.2",
     "better-sqlite3": "6.0.1",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "lodash.merge": "4.6.2",
     "sqlite3": "^4.1.1"
   },
